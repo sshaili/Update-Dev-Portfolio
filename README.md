@@ -16,7 +16,7 @@ Shaili Shah |
 * JQuery
 
 # Live Demo
-`https://sshaili.github.io/Update-Dev-Portfolio/`
+[Click Here for the Demo](https://sshaili.github.io/Update-Dev-Portfolio/)
 
 
 
